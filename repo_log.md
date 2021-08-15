@@ -12,3 +12,6 @@
 | 2021-05-13 | analysis of climate data records to find consecutive NAs that may affect the results |
 | 2021-05-14 | developed a workflow to analyze growing season parameters excluding years with March-October having 5 and more consecutive days of missing observations  |
 | 2021-05-23 | downloaded 1881-2020 data, introduced linear interpolation via zoo library to fill in data gaps less than 5 days |
+|2021-06-16 | completed linear trends analysis |
+|2021-07-14 | completed plots |
+|2021-08-13 | completed predictions based on Theil-Sen model fit |
