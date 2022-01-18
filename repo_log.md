@@ -15,3 +15,5 @@
 |2021-06-16 | completed linear trends analysis |
 |2021-07-14 | completed plots |
 |2021-08-13 | completed predictions based on Theil-Sen model fit |
+|2022-01-18 | updated batch processing script to L2C2 data. Looks like I'm not the only one who encounters the issue with self-finalize error (see this [thread](https://stackoverflow.com/questions/65556253/r-raster-selffinalize-error-causing-failure)). Also, LSTs batch processing produces some empty rasters, cannot  figure out what is wrong.|
+
